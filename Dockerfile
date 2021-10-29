@@ -1,1 +1,1 @@
-FROM python:latest
+FROM pypy:latest
